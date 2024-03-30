@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "~ اكتب الايبي ايدي .",
-        "value": "",
+        "value": "27455984",
         "required": true
       },
       "API_HASH": {
         "description": "~ اكتب الايبي هاش .",
-        "value": "",
+        "value": "62d5f68ce2e9189636967120220f5755",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "~ اكتب ايدي المالك او اتركها كما هي .",
-        "value": "1854384004",
+        "value": "5072874938",
         "required": true
         
       },
@@ -46,13 +46,13 @@
       },
       "SUPPORT_CHAT": {
         "description": "~  ضع قناة الدعم .",
-        "value": "https://t.me/vvyvv6",
+        "value": "https://t.me/ ",
         "required": true
         
       },
       "Muntazer": {
         "description": "~  ضع قناة الاشتراك الاجباري ( لاتنسى رفع البوت مشرف في القناة ) .",
-        "value": "xl444",
+        "value": "AAAWY",
         "required": true
         
       },
@@ -64,7 +64,7 @@
       },
       "START_IMG_URL": {
         "description": "~  ضع صورة كليشة  الستارت .",
-        "value": "https://te.legra.ph/file/303a0e1d707b04a28a5ad.jpg",
+        "value": "",
         "required": false
         
       },
@@ -92,13 +92,13 @@
      },
       "LOGGER_ID": {
         "description": "~ اكتب ايدي القناة حتى يتم وصول احداث البوت اليك .",
-        "value": "-100",
+        "value": "-1001530753519",
         "required": true
         
       },
       "UPSTREAM_REPO": {
         "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/STKR2/RR8R9",
+        "value": "https://github.com/Olivermusic/LindaV2",
         "required": true
       }
     },
