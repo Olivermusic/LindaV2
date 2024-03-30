@@ -58,13 +58,13 @@
       },
       "BOT_IMAGE": {
         "description": "~  ضع صورة كليشة الاشتراك الاجباري ، يمكنك تجاهل هذا الحقل .",
-        "value": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+        "value": "https://telegra.ph/file/f036b27303757fbda1274.jpg",
         "required": false
         
       },
       "START_IMG_URL": {
         "description": "~  ضع صورة كليشة  الستارت .",
-        "value": "",
+        "value": "https://telegra.ph/file/f036b27303757fbda1274.jpg",
         "required": false
         
       },
